@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+ios/Pods/
+android/build/
+android/app/build/
+*.log
+.env
+.env.*
+google-services.json
+GoogleService-Info.plist
+functions/node_modules/
